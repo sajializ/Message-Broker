@@ -1,0 +1,7 @@
+{
+    "clientAddress1": "127.0.0.1:12346",
+    "clientAddress2": "127.0.0.1:12349",
+    "clientAddress3": "127.0.0.1:12350",
+    "serverAckAddress": "127.0.0.1:12348",
+    "brokerAddress": "127.0.0.1:12345"
+}

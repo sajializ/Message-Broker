@@ -1,0 +1,12 @@
+{
+    "clientAddress1": "127.0.0.1:12346",
+    "clientAddress2": "127.0.0.1:12360",
+    "clientAddress3": "127.0.0.1:12361",
+    "serverAddress": "127.0.0.1:12349",
+    "serverAckAddress": "127.0.0.1:12348",
+    "clientAckAddress1": "127.0.0.1:12350",
+    "clientAckAddress2": "127.0.0.1:12362",
+    "clientAckAddress3": "127.0.0.1:12363",
+    "brokerHeadAddress": "127.0.0.1:12345",
+    "brokerTailAddress": "127.0.0.1:12347"
+}
